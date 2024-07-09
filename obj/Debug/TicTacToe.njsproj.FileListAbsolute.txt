@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\TicTacToe\TicTacToe\obj\Debug\TicTacToe.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\TicTacToe\TicTacToe\obj\Debug\TicTacToe.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\TicTacToe\TicTacToe\bin\Microsoft.NodejsTools.WebRole.dll
