@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded', () => {
         [6] [7] [8]
     */
 
-    const winningConditions = [
+    const winningConditions = [ //indexes of conditions needed to win 
         [0, 1, 2],
         [3, 4, 5],
         [6, 7, 8],
@@ -30,7 +30,7 @@ window.addEventListener('DOMContentLoaded', () => {
         [0, 4, 8],
         [2, 4, 6]
     ];
-
+    //function to handle results
     function handleResultValidation() {
         let roundWon = false;
         for (let i = 0; i <= 7; i++) {
